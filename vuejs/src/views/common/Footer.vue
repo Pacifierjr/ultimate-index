@@ -8,10 +8,10 @@
         <img width="150" height="75" class="gloryimage" :src="footerLogoLink">
       </div>
       <div class="footpad footicons">
-        Github - <a class="icon-tag" href="https://github.com/tks18/gindex-v4">Shan.tk</a> | Support Me!
+        Github - <a class="icon-tag" href="https://ko-fi.com/TagAnime">Jav4.Life</a> | Support Me!
       </div>
       <div v-if="copyright" class="footpad footer-copyright">
-        Copyright&nbsp;<i class="fas fa-copyright"></i> {{ Date.now() | moment("YYYY") }} | &nbsp;{{ sitename }}
+        Copyright&nbsp;<i class="fas fa-copyright"></i> {{ Date.now() | moment("YYYY") }} | &nbsp;Jav4.Life
       </div>
       <div v-if="license" class="footpad footer-policy">
         Licensed under FrontEnd - <a href="https://github.com/tks18/gindex-v4/blob/dark-mode-0-1/LICENSE" target="_blank"> GPL 3.0 </a> | Backend - <a href="https://github.com/tks18/gindex-v4/blob/dark-mode-0-1/vuejs/LICENSE" target="_blank">MIT</a>
